@@ -1,0 +1,6 @@
+owner=321012414789320705
+prefix=t
+game=2qlay
+stayinchannel=true
+songinstatus=false
+token=NjI4NDE3NjU5NzcxMjg5NjIx.XauufQ.4E_GQDKXXpDUd3x9W6bgxYYVRJE
